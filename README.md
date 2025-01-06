@@ -1,14 +1,6 @@
 # Meu Projeto
 Este é meu primeiro projeto usando Git!
 
-##Modificando
-
-#### modificando 2
-
-#salvando modificações
-
-#terceiro titulo
-
-*uso do comando restore 
-
-*comando git pull
+*Comando Git Push - Envia para Remoto
+*Comando Git Pull - Faz Download do remoto para Local
+* Comando Git Fetch
