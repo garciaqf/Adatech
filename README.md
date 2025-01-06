@@ -8,3 +8,5 @@ Este é meu primeiro projeto usando Git!
 #salvando modificações
 
 #terceiro titulo
+
+*uso do comando restore 
