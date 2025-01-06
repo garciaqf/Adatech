@@ -10,3 +10,5 @@ Este é meu primeiro projeto usando Git!
 #terceiro titulo
 
 *uso do comando restore 
+
+*comando git pull
